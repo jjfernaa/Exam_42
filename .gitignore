@@ -1,0 +1,31 @@
+# Compiled Object files
+*.o
+*.obj
+*.a
+*.out
+
+# Executables
+a.out
+*.exe
+ex00/aff_a
+ex01/ft_strlen
+ex02/ft_swap
+
+# Temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+
+# Test files
+test
+tests/
+*.test
+
+# Debug files
+*.dSYM/
+vgcore.*
+
+# Editor files
+.vscode/
+.idea/
