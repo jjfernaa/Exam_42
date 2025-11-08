@@ -419,5 +419,5 @@ ft_popen("ls", (char *const[]){"ls", NULL}, 'r');  // → debe funcionar
 - ✅ Sabes qué descriptor retornar en cada caso
 - ✅ Entiendes por qué no hacer wait()  
 - ✅ Puedes implementar ft_popen desde cero en 15 minutos
-
-**Próximo paso**: sandbox (manejo de señales y timeouts) 🚀
+ 
+---
